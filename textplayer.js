@@ -1,6 +1,6 @@
 /***
     This entity types text out on the screen charector by charector and also word wraps the text based on the maxwidth.
-    This exaple centers the text both by height and width
+    This exaple centers the text both by height and width  
 ***/
 
 ig.module(
